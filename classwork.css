@@ -1,0 +1,85 @@
+#navigation-bar{
+    background-color:purple ;
+    width: 100vw;
+    height: 50px;
+    
+}
+.nav-bar{
+    font-size: 100%;
+    float:right;
+    color: rosybrown;
+    display:flex;
+    padding: 3px;
+}
+.nav-bar a{
+    color: white;
+    padding-left: 9px;
+    text-decoration: none;
+
+
+
+
+}
+#first-image{
+width: 100vw;
+height: 30vh;
+background-color: royalblue;
+background-image: url("avatar.jpg")
+
+}
+#write{
+    color: seashell;
+    text-align: center;
+    font-size: 30px;
+}
+
+.second-image{
+    width: 100vw;
+    height: 40vh;
+    background-image: url(ken.jpg);
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+.third-image{
+    background-image: url(kakashi.jpg);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 40vh;
+    text-align: center;
+    
+}
+
+#footbar{
+    background-color: steelblue;
+    width: 100wh;
+    height: 15vh;
+}
+
+.write-up{
+    display: flex;
+    float: right;
+    text-align: center;
+    padding-left: 10px;
+
+}
+.write-up a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+   a:hover{
+       text-decoration: underline;
+       
+   }
+    
+
+
+
+
+
+ 
+        
+        
+        
